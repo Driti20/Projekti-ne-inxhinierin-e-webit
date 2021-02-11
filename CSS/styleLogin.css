@@ -23,6 +23,9 @@ header{
   padding: 0px;
   position: relative;
 }
+header ul{
+  margin-top: 30px;
+}
 ul{
   display: flex;
   list-style-type: none;
