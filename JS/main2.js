@@ -17,7 +17,6 @@ function validate2() {
     var Emri = document.getElementById("Emri").value;
     var Mbiemri = document.getElementById("Mbiemri").value;
     var Email = document.getElementById("Email").value;
-    var Cpassword = document.getElementById("Cpassword").value;
     if (Emri== null || Emri== "") {
         alert("Ju lutem plotesoni fushen Emri.");
         return false;
@@ -39,10 +38,6 @@ function validate2() {
         alert("Ju lutem plotesoni fushen Password.");
         return false;
     }
-    if (Cpassword== null || Cpassword== "") {
-            alert("Ju lutem plotesoni fushen Confirm Passworg.");
-            return false;
-        }
-    alert('Ju u Regjistruat me sukses');
+    alert("Ju u Regjistruat me sukses");
 } 
     

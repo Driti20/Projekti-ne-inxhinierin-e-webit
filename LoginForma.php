@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +15,7 @@
     <main>
         <div class="div-form">
             <h2>Login to your account</h2>
-            <form id="forma1" action="">
+            <form id="forma1" action="logicPHP/class.user.php" method="POST" onsubmit="return validate1()">
                 <ul>
                     <li><label for="">Username:</label></li>
                     <li><input type="text" class="input" id="Username" placeholder="username..." /></li>

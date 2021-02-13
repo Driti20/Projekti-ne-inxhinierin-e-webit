@@ -174,3 +174,30 @@ footer div{
   text-align: center;
 }
   
+.feedbackDiv{
+  position: relative;
+ width: 100vw;
+ display: flex;
+ flex-direction: column;
+ text-align: center;
+ top :30px;
+ align-items: center;
+ min-height: 50vw;
+ height: auto;
+}
+.feedbackInput{
+  width: 300px;
+  height: 300px;
+  align-items: center;
+  text-align: center;
+}
+#forma2{
+
+  height: 50vh;
+  background-color: white;
+  width: 40%;
+  align-items: center;
+  text-align: center;
+  border: black;
+
+}

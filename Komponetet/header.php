@@ -1,6 +1,6 @@
 <header>
         <div class="header-div1">
-            <a href="Index.html"><img id="imgLogo" src="Image/Logo-removebg-preview.png" alt=""/></a>
+            <a href="Index.php"><img id="imgLogo" src="Image/Logo-removebg-preview.png" alt=""/></a>
         
             <ul class="headerList">
                 <li ><a href="Index.php" > Home</a></li>

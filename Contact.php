@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
@@ -20,6 +20,7 @@
                 <li><p>E-mail : ........@gmail.com</p></li>
                 <li><p>Facebook : M&A Cars</p></li>
                 <li><p>Instagram : @M&A Cars</p></li>
+                <li><p>For feedback <a href="feedbackForm.php"><u><strong>here</strong></u></a></p></li>
             </ul>
         </div>
     </main>
